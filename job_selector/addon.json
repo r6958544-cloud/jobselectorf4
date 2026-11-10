@@ -1,0 +1,10 @@
+{
+    "title": "Riverside Chicago RP Job Selector",
+    "type": "gamemode",
+    "tags": ["roleplay", "build"],
+    "ignore": [
+        "*.psd",
+        "*.xcf",
+        "*.pyc"
+    ]
+}
